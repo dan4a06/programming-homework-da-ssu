@@ -2,6 +2,10 @@
     "files.associations": {
         "vector": "cpp",
         "iostream": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "set": "cpp",
+        "iterator": "cpp"
     }
 }
